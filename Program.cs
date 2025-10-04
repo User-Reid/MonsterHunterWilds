@@ -52,7 +52,7 @@ public class Belt
     public void NewChestDescription()
   {
     System.Console.WriteLine("");
-    System.Console.WriteLine("");
+    System.Console.WriteLine("completed the build");
   }
 }
 
