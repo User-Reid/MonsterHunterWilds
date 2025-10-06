@@ -70,3 +70,17 @@ public class Legs
     System.Console.WriteLine("");
   }
 }
+
+public class Skills
+{
+  public string Agitator { get; }
+  public string LatentPower { get; }
+  public string Burst { get; }
+  public string
+}
+
+/*
+30
+10
+30
+*/
