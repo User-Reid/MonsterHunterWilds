@@ -84,4 +84,5 @@ public class Skills
 50
 20
 10
+5
 */
