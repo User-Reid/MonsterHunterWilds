@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MonsterHunterWilds")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e04a6a53d4a4eb7d3677c5621a406d6cbf384ce2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4e9482dcdd9ee2f6f40f68b7149e3d292f8a139")]
 [assembly: System.Reflection.AssemblyProductAttribute("MonsterHunterWilds")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MonsterHunterWilds")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

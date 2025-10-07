@@ -80,7 +80,8 @@ public class Skills
 }
 
 /*
-30
+20
+50
+20
 10
-30
 */
